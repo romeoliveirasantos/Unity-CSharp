@@ -10,7 +10,7 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
-/public/static/**/*.meta
+/public/static/*.meta
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
